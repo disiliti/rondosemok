@@ -78,4 +78,4 @@ curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh 
 
 **COPYRIGHT & LICENSE:**
 - Script is licensed under CC BY-SA 4.0.
-- Copyright Â© 2025 by Lite Vermilion Project
+- Copyright Â© 2025
