@@ -1,25 +1,11 @@
-- Run the following command to install the script:
-- step 1
-```
-echo -e "net.ipv6.conf.all.disable_ipv6 = 1\nnet.ipv6.conf.default.disable_ipv6 = 1\nnet.ipv6.conf.lo.disable_ipv6 = 1" >> /etc/sysctl.conf && sysctl -p
-```
-- Step 2
-```
-apt update -y && apt upgrade -y --fix-missing && apt install -y xxd bzip2 wget curl sudo build-essential bsdmainutils screen dos2unix && update-grub && apt dist-upgrade -y && sleep 2 && reboot
-```
-- step 3
-```
-screen -S setup-session bash -c "wget -q https://raw.githubusercontent.com/disiliti/rondosemok/main/setup.sh && chmod +x setup.sh && ./setup.sh"
-```
-**INFO:**
-- If you encounter a disconnection during installation, reconnect using:
-```
-screen -r -d setup
-```
-**Update Script**
-```
-wget -q https://raw.githubusercontent.com/disiliti/rondosemok/main/update.sh && chmod +x update.sh && ./update.sh && rm -rf update.sh
-```
+# 🔥 **DIJUAL: HANYA 100K** 🔥
+
+### 📞 **Info & Pemesanan:**
+[**Klik di sini untuk chat via WhatsApp**](https://wa.me/6281775700114)
+<br>
+**+62 817-7570-0114**
+
+
 ### CLEAR INSTALLER SCRIPT IN YOUR VPS THANKS FOR BIN456789
 ### rebuild deb 10 selain do
 
